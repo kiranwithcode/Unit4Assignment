@@ -1,0 +1,17 @@
+button{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+.test{
+    background-color: blueviolet;
+    color: white;
+}
+.double{
+    background-color: bisque;
+    padding: 10px;
+    font-size: 30px;
+    display: block;
+    margin: auto;
+    width: 300px;
+}

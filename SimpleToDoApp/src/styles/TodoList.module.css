@@ -1,0 +1,77 @@
+.innerBoxC {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+}
+.innerBox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    width: 500px;
+    background-color: white;
+}
+.innerBoxC:hover{
+    width: 510px;
+}
+/* .innerBox:hover{
+    width: 510px;
+} */
+.listBox{
+    width: 600px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.listBox h1{
+    color: yellow;
+}
+.delete{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 300;
+    border: none;
+    background-color: white;
+    color: white;
+    margin-left: -20px;
+}
+.delete:hover {
+    color: black;
+}
+.innerBox .complete {
+    background-color: #cecece;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 12px solid #7f7bff;
+}
+.innerBoxC .complete {
+    background-color: #cecece;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 12px solid #87ffc5;
+}
+
+.innerBox h2{
+    width: 300px;
+    text-align: left;
+    padding-left: 50px;
+}
+.innerBoxC h2{
+    width: 300px;
+    text-align: left;
+    padding-left: 50px;
+}

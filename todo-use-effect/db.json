@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "task 1",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "task 2",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "task 3",
+      "done": true
+    },
+    {
+      "id": 4,
+      "text": "task 4",
+      "done": false
+    },
+    {
+      "id": 5,
+      "text": "task 5",
+      "done": true
+    },
+    {
+      "id": 6,
+      "text": "task 6",
+      "done": false
+    },
+    {
+      "text": "A",
+      "done": false,
+      "id": 7
+    },
+    {
+      "text": "B",
+      "done": false,
+      "id": 8
+    },
+    {
+      "text": "C",
+      "done": false,
+      "id": 9
+    },
+    {
+      "text": "S",
+      "done": false,
+      "id": 10
+    }
+  ]
+}
