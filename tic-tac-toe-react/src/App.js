@@ -22,7 +22,7 @@ function App() {
       </div>
       {/* Custom made board component comprising of the tic tac toe board */}
       <Board reset={reset} setReset={setReset} winner={winner} setWinner={setWinner} />
-      <Info player1={"Prajwal"} player2={"Lucky"} />
+      <Info player1={"Kiran"} player2={"Lucky"} />
     </div>
   );
 }

@@ -46,9 +46,9 @@ const ButtonStopwatch = (props) => {
       onClick={() =>
         toast({
           title: 'Stopwatch Developed By',
-          description: "Prajwal Jaiswal WEB-17 Masai School",
+          description: "Kiran Kamble WEB-17 Masai School",
           status: 'success',
-          duration: 9000,
+          duration: 8000,
           isClosable: true,
         })
       }
