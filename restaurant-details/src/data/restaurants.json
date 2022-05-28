@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant1.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.3",
+    "deliveryTiming": "33 Mins",
+    "costForTwo": 200,
+    "offer": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant2.jpeg",
+    "name": "MH 12 Pav Bhaji",
+    "category": ["Snacks", "Pizza", "Beverages", "Steet Food"],
+    "rating": "4.0",
+    "deliveryTiming": "25 Mins",
+    "costForTwo": 250,
+    "offer": ["10% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant1.jpeg",
+    "name": "Lunch Box",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.0",
+    "deliveryTiming": "33 Mins",
+    "costForTwo": 100,
+    "offer": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant2.jpeg",
+    "name": "MH 12 Pav Bhaji",
+    "category": ["Snacks", "Pizza", "Beverages", "Steet Food"],
+    "rating": "2.0",
+    "deliveryTiming": "25 Mins",
+    "costForTwo": 150,
+    "offer": ["10% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant1.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.2",
+    "deliveryTiming": "33 Mins",
+    "costForTwo": 100,
+    "offer": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant2.jpeg",
+    "name": "MH 12 Pav Bhaji",
+    "category": ["Snacks", "Pizza", "Beverages", "Steet Food"],
+    "rating": "4.0",
+    "deliveryTiming": "25 Mins",
+    "costForTwo": 350,
+    "offer": ["10% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant1.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "1.3",
+    "deliveryTiming": "33 Mins",
+    "costForTwo": 300,
+    "offer": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/files/main/restaurant2.jpeg",
+    "name": "MH 12 Pav Bhaji",
+    "category": ["Snacks", "Pizza", "Beverages", "Steet Food"],
+    "rating": "4.0",
+    "deliveryTiming": "25 Mins",
+    "costForTwo": 250,
+    "offer": ["10% off", "Use TRYNEW"]
+  }
+]
