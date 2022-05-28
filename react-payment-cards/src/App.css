@@ -1,0 +1,38 @@
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  width: 30%;
+  height: fit-content;
+  padding: 1.5%;
+}
+
+.top {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.caseStudy {
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  padding: 3%;
+  width: fit-content;
+}
+
+.heading, .subHeading {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.image {
+  height: 50px;
+  width: 100%;
+}
