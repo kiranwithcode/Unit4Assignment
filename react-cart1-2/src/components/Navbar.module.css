@@ -1,0 +1,22 @@
+.Navbar {
+    display: flex;
+    /* border: 1px solid red; */
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: antiquewhite;
+}
+
+.left {
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.right {
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+

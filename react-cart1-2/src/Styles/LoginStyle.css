@@ -1,0 +1,29 @@
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    height: 50px;
+    width: 250px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+}
+
+form > div {
+    width: 30%;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid teal;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,18 @@
+.box{
+    border: 1px solid lightgray;
+    width: 30%;
+    margin: auto;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.todoBox{
+    border: 1px solid teal;
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+
+}
